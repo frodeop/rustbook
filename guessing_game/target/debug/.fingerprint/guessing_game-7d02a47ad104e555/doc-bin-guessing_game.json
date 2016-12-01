@@ -1,0 +1,1 @@
+{"rustc":10224459108766703072,"target":8769534467741734535,"profile":16291553864756094723,"local":{"variant":"Precalculated","fields":["1480465902.000000000s (/Users/frodeopdahl/repos/rustbook/guessing_game/src/main.rs)"]},"features":"None","deps":[["rand v0.3.15",1073704953018645568],["rand v0.3.15",6057065552343720087]],"rustflags":[]}
